@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Voice Assistent Kotlin</string>
+    <string name="button_send_text">Send</string>
+    <string name="ask_question">Ask question</string>
+    <string name="user_avatar_description">User Avatar</string>
+    <string name="assistant">Assistant</string>
+    <string name="you">You</string>
+    <string name="action_settings">Settings</string>
+    <string name="light_theme">Дневная тема</string>
+    <string name="dark_theme">Ночная тема</string>
+</resources>
